@@ -1,0 +1,6 @@
+x 01 - blink_led		- Just test the blink_led.
+x 02 - serial_test		- Blink program with sending data through serial link.
+x 03 - multicore		- A core reads the internal temperature sensor and sends it to the other core for printing.
+x 04 - temp_sensor		- Internal temperatr reading.
+05 - I2C				- I2C example with XXX
+06 - serial_inout		- Allow sending data from the serial to the Pico
